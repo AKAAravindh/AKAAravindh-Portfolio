@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: KodeMono;
+  src: url(./assets/fonts/KodeMono-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Outfit;
+  src: url(./assets/fonts/Outfit-VariableFont_wght.ttf);
+}
